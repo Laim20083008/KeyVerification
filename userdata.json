@@ -1,14 +1,28 @@
 [
     {
-        "device_id": "902ff0f2bc1952cd",
-        "key": "DNSTelegram@CrackClumsy",
+        "device_id": "c9f34469d6a5a4af",
+        "key": "KingremaKEY",
         "expirydate": "19-08-2025",
         "Allowoffline": false
     },
     {
-        "device_id": "device123",
-        "key": "1WeekKEY",
+        "device_id": "7994b93d0338b95a",
+        "key": "2DayKeyTelegram@CrackClumsy",
         "expirydate": "24-08-2025",
+        "Allowoffline": false
+    }
+]
+[
+    {
+        "device_id": "8b03beb179458e4a",
+        "key": "DNSKey82818620",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device456",
+        "key": "key67890",
+        "expirydate": "15-06-2025",
         "Allowoffline": false
     }
 ]
