@@ -1,0 +1,14 @@
+[
+    {
+        "device_id": "device123",
+        "key": "DNSTelegram@CrackClumsy",
+        "expirydate": "19-08-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "DnsWeekKEY",
+        "key": "",
+        "expirydate": "24-08-2025",
+        "Allowoffline": false
+    }
+]
