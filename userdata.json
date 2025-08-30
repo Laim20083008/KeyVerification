@@ -23,9 +23,15 @@
         "expirydate": "21-08-2025",
         "Allowoffline": false
     },
-     {
-        "device_id": "4a01d2d9b7fa223a",
-        "key": "DnsForCodmKeyTelegram@CrackClumsy",
+    {
+        "device_id": "0789a2fe1f41d5c3",
+        "key": "KeyFor3Day",
+        "expirydate": "21-08-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "23305863d5c3f49c",
+        "key": "KeyDNS3Day",
         "expirydate": "21-08-2025",
         "Allowoffline": false
     }
