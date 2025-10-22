@@ -37,7 +37,7 @@
     },
     {
         "device_id": "b8b5b23816de6bca",
-        "key": "KeyLagCFGForSub",
+        "key": "trylagcfg",
         "expirydate": "05-10-2025",
         "Allowoffline": false
     }
