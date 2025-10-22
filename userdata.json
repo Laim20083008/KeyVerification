@@ -35,4 +35,10 @@
         "expirydate": "21-08-2025",
         "Allowoffline": false
     }
+    {
+        "device_id": "b8b5b23816de6bca",
+        "key": "LagCFGOnTOP",
+        "expirydate": "05-10-2025",
+        "Allowoffline": false
+    }
 ]
